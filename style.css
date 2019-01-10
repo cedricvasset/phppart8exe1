@@ -1,0 +1,11 @@
+.alert {
+    width: 50%;
+}
+h1{
+    color: blue;
+    font-family: 'Charm', cursive;
+}
+.text-muted{
+    font-family: 'Charm', Italic;
+    font-size: 150%;
+}
